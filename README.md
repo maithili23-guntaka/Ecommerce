@@ -1,2 +1,2 @@
 # Ecommerce
-Ecommerce Web Site
+Ecommerce WebSite
